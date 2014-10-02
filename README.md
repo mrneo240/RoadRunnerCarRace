@@ -30,8 +30,6 @@ Hard disk capacity	: 80GB
 
 Graphics Card	: 128MB or more
 
-![ScreenShot](https://github.com/naveenkumarbv66/RoadRunnerCarRace/blob/master/FP/3.bmp)
-
 
 
 
