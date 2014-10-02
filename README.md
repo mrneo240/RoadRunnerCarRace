@@ -30,6 +30,18 @@ Hard disk capacity	: 80GB
 
 Graphics Card	: 128MB or more
 
+Screen Shots :
+==============
+
+![ScreenShot](https://github.com/naveenkumarbv66/RoadRunnerCarRace/blob/master/sc/1.png)
+
+![ScreenShot](https://github.com/naveenkumarbv66/RoadRunnerCarRace/blob/master/sc/2.png)
+
+![ScreenShot](https://github.com/naveenkumarbv66/RoadRunnerCarRace/blob/master/sc/3.png)
+
+![ScreenShot](https://github.com/naveenkumarbv66/RoadRunnerCarRace/blob/master/sc/4.png)
+
+![ScreenShot](https://github.com/naveenkumarbv66/RoadRunnerCarRace/blob/master/sc/5.png)
 
 
 
